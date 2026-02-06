@@ -24,7 +24,7 @@ Responsive for all devices, built using **HTML**, **CSS**, and **JavaScript**.
 2. Open `index.html` in your browser.
 3. Enjoy the fully interactive shopping experience — no server setup required.
 
-## 📱 Responsive
+## Responsive
 
 The website is fully responsive:
 - Desktop 
